@@ -1,0 +1,16 @@
+*{
+    /* padding: 0;
+    height: 0; */
+}
+.firstnav{
+    background-color: black;
+    color: white;
+}
+.secondnav{
+    background-color: rgb(29, 28, 69);
+    color: gold;
+    padding-left: 150px;
+    padding-right: 150px;
+    height: 70px;
+    font-size: larger;
+}
